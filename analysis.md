@@ -14,3 +14,4 @@ Instructions:
 6. from locally
 7. from web
 8.hjhj
+9.new pull
